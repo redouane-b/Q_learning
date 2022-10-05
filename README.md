@@ -1,4 +1,4 @@
-# Q_learning
+# Q learning
 
 Trouver un chemin minimal dans un graph en évitant les pièges eten utilisant l'apprentissage par renforcement
 
