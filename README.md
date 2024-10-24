@@ -1,6 +1,6 @@
 # Q learning
 
-Trouver un chemin minimal dans un graph en évitant les pièges eten utilisant l'apprentissage par renforcement
+Le but de ce projet est de trouver le chemin minimal dans un graphe en utilisant l'apprentissage par renforcement
 
 ![image](image1.png)
 
